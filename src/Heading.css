@@ -3,3 +3,14 @@
     color:tomato;
     text-decoration: underline;
 }
+.headingBox{
+    border-radius: 20px;
+    padding: 20px;
+    background-color: #dcdcdc;
+    width: 60%;
+    margin : 20px auto;
+}
+
+.headingBox img{
+    width:50%;
+}
